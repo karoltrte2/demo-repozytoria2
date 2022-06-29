@@ -3,3 +3,6 @@ teksty
 
 # tak
 asdasdas
+# no 
+
+tak jest no
